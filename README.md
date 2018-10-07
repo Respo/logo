@@ -4,7 +4,7 @@ Respo Logo
 
 The shapes represent the flow of MVC.
 
-http://logo.respo.site/respo.png
+http://logo.respo-mvc.org/respo.png
 
 ### License
 
